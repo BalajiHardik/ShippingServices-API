@@ -1,0 +1,6 @@
+projectKey=ShippingServices
+serverUrl=http://127.0.0.1:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=ShippingServices
+ceTaskId=f5c802ef-4f72-477f-9450-ef7801ee9c17
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=f5c802ef-4f72-477f-9450-ef7801ee9c17

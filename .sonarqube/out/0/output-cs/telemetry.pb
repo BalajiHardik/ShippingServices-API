@@ -1,0 +1,1 @@
+]RGD:\Sonar-proj\ShippingServices\ShippingServices\ShippingServices.csproj¢net8.0òCSharp12

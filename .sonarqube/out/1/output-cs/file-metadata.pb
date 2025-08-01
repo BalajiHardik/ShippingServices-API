@@ -1,0 +1,12 @@
+
+tD:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.MvcApplicationPartsAssemblyInfo.csutf-8z
+oD:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8l
+aD:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.AssemblyInfo.csutf-8n
+cD:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.GlobalUsings.g.csutf-8N
+ED:\Sonar-proj\ShippingServices\ShippingServices\Model\ShippingItem.csutf-8C
+:D:\Sonar-proj\ShippingServices\ShippingServices\Program.csutf-8b
+WD:\Sonar-proj\ShippingServices\ShippingServices\Migrations\AppDbContextModelSnapshot.csutf-8e
+ZD:\Sonar-proj\ShippingServices\ShippingServices\Migrations\20250705051421_init.Designer.csutf-8Z
+QD:\Sonar-proj\ShippingServices\ShippingServices\Migrations\20250705051421_init.csutf-8M
+DD:\Sonar-proj\ShippingServices\ShippingServices\Data\AppDbContext.csutf-8a
+XD:\Sonar-proj\ShippingServices\ShippingServices\Controllers\ShippingServiceController.csutf-8

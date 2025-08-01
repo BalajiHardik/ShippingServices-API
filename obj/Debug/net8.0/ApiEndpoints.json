@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ShippingServices.Controllers.ShippingServiceController",
+    "Method": "GetAll",
+    "RelativePath": "api/ShippingService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingServices.Controllers.ShippingServiceController",
+    "Method": "Create",
+    "RelativePath": "api/ShippingService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shippingItem",
+        "Type": "ShippingServices.Model.ShippingItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingServices.Controllers.ShippingServiceController",
+    "Method": "Get",
+    "RelativePath": "api/ShippingService/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingServices.Controllers.ShippingServiceController",
+    "Method": "Update",
+    "RelativePath": "api/ShippingService/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "shippingItem",
+        "Type": "ShippingServices.Model.ShippingItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShippingServices.Controllers.ShippingServiceController",
+    "Method": "Delete",
+    "RelativePath": "api/ShippingService/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
