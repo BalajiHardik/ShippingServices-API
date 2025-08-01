@@ -1,4 +1,4 @@
-°
+È
 :D:\Sonar-proj\ShippingServices\ShippingServices\Program.cs
 var 
 builder 
@@ -142,14 +142,16 @@ UseSwagger 
 MapControllers%% 
 (%% 
 )%% 
-;%% 
-app'' 
-.'' 
-Run'' 
-('' 
-)'' 	
-;''	 
-ª
+;%% 
+await'' 
+app'' 	
+.''	 
+
+RunAsync''
+ 
+('' 
+)'' 
+;'' È
 ED:\Sonar-proj\ShippingServices\ShippingServices\Model\ShippingItem.cs
 	namespace 	
 ShippingServices
@@ -163,14 +165,15 @@ ED:\Sonar-proj\ShippingServices\ShippingServices\Model\ShippingItem.cs
 ShippingItem 
 { 
 public 
-int 
-Id 
-{ 
-get 
-; 
-set !
-;! "
-}# $
+int 
+? 
+Id 
+{ 
+get 
+; 
+set "
+;" #
+}$ %
 public		 
 string		 
 ?		 
@@ -212,14 +215,15 @@ ED:\Sonar-proj\ShippingServices\ShippingServices\Model\ShippingItem.cs
 
 3 4
 public 
-DateTime 
-ItemShippedDate '
-{( )
-get* -
-;- .
-set/ 2
-;2 3
-}4 5
+DateTime 
+? 
+ItemShippedDate (
+{) *
+get+ .
+;. /
+set0 3
+;3 4
+}5 6
 } 
 } Ý
 QD:\Sonar-proj\ShippingServices\ShippingServices\Migrations\20250705051421_init.cs
@@ -437,51 +441,7 @@ Annotation"" 
 ;))& '
 }** 	
 }++ 
-},, º
-DD:\Sonar-proj\ShippingServices\ShippingServices\Data\AppDbContext.cs
-	namespace 	
-ShippingServices
- 
-. 
-Data 
-{ 
-public		 
-
-class		 
-AppDbContext		 
-:		 
-	DbContext		  )
-{ 
-public 
-AppDbContext 
-( 
-DbContextOptions ,
-<, -
-AppDbContext- 9
->9 :
-options; B
-)B C
-:D E
-baseF J
-(J K
-optionsK R
-)R S
-{T U
-}V W
-public 
-DbSet 
-< 
-ShippingItem !
->! "
-ShippingItems# 0
-{1 2
-get3 6
-;6 7
-set8 ;
-;; <
-}= >
-} 
-} Ø,
+},, ð,
 XD:\Sonar-proj\ShippingServices\ShippingServices\Controllers\ShippingServiceController.cs
 	namespace 	
 ShippingServices
@@ -765,16 +725,17 @@ HttpDelete44	 
 {66 	
 var77 
 shipment77 
-=77 
-_context77 #
-.77# $
-ShippingItems77$ 1
-.771 2
-Find772 6
-(776 7
-id777 9
-)779 :
-;77: ;
+=77 
+await77 
+_context77  (
+.77( )
+ShippingItems77) 6
+.776 7
+	FindAsync777 @
+(77@ A
+id77A C
+)77C D
+;77D E
 if88 
 (88 
 shipment88 
@@ -802,4 +763,48 @@ HttpDelete44	 
 ;:: 
 };; 	
 }== 
-}>> 
+}>> º
+DD:\Sonar-proj\ShippingServices\ShippingServices\Data\AppDbContext.cs
+	namespace 	
+ShippingServices
+ 
+. 
+Data 
+{ 
+public		 
+
+class		 
+AppDbContext		 
+:		 
+	DbContext		  )
+{ 
+public 
+AppDbContext 
+( 
+DbContextOptions ,
+<, -
+AppDbContext- 9
+>9 :
+options; B
+)B C
+:D E
+baseF J
+(J K
+optionsK R
+)R S
+{T U
+}V W
+public 
+DbSet 
+< 
+ShippingItem !
+>! "
+ShippingItems# 0
+{1 2
+get3 6
+;6 7
+set8 ;
+;; <
+}= >
+} 
+} 

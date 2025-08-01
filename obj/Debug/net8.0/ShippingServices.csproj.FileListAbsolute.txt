@@ -222,3 +222,4 @@ D:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\refint\Shipping
 D:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.pdb
 D:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.genruntimeconfig.cache
 D:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ref\ShippingServices.dll
+D:\Sonar-proj\ShippingServices\ShippingServices\obj\Debug\net8.0\ShippingServices.sourcelink.json

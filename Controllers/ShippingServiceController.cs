@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ShippingServices.Data;
 using Microsoft.EntityFrameworkCore;
 using ShippingServices.Model;
@@ -52,7 +51,7 @@ namespace ShippingServices.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var shipment = _context.ShippingItems.Find(id);
+            var shipment =await _context.ShippingItems.FindAsync(id);
             if (shipment == null) return NotFound();
             _context.ShippingItems.Remove(shipment);
             return NoContent();
